@@ -59,6 +59,7 @@ The application monitors and displays:
    ```bash
    npm run build
    ```
+*5. run ( npm audit fix --force ) for no funding.
 
 ## Usage
 
